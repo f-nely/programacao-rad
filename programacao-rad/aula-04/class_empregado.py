@@ -29,4 +29,3 @@ del emp1.idade
 
 print(getattr(emp1, 'nome'))
 print(hasattr(emp1, 'e-mail'))
-
