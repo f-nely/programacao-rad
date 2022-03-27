@@ -1,0 +1,6 @@
+dna = ('a', 'a', 't', 'c', 'g', 'g', 'g', 't', 't', 'a', 'a', 't', 'g', 'c', 'a', 'a', 't', 't', 'c', 'g')
+qtd_a = dna.count('a')
+qtd_c = dna.count('c')
+qtd_t = dna.count('t')
+qtd_g = dna.count('g')
+print(qtd_a, qtd_c, qtd_t, qtd_g)
